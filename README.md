@@ -1,4 +1,4 @@
-h1><center><strong> Stock Market Predictor Tool</strong></center></h1>
+<h1><center><strong> Stock Market Predictor Tool</strong></center></h1>
 ![enter image description here](https://github.com/ArijitChakrabarti/stock-Market-Predictor/blob/main/UMPI-Stock-Market-Projection-Software.png?raw=true)
 
 Background - Why do this?
